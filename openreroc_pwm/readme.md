@@ -5,8 +5,8 @@ This package supports a motor control by PWM using an FPGA board ([ZedBoard](htt
 The duty ratio of the mortor can be inputted from openreroc_pwm. 
  
 **Git**:         https://github.com/Kumikomi/OpenReroc.git   
-**Author**:      Kazushi Yamashina   
-**Copyright**:   2015 Kazushi Yamashina   
+**Author**:      Kazushi Yamashina (Utsunomiya University)  
+**Copyright**:   2015, Kazushi Yamashina, Utsunomiya University    
 **License**:      new BSD License   
 **Latest Version**: 0.1.0  
 
