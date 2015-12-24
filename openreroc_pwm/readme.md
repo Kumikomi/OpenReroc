@@ -4,7 +4,7 @@ openreroc_pwm
 This package supports a motor control by PWM using an FPGA board ([ZedBoard](http://zedboard.org/) Xilinx). 
 The duty ratio of the mortor can be inputted from openreroc_pwm. 
  
-**Git**:         https://github.com/Kumikomi/VirCRET.git  
+**Git**:         https://github.com/Kumikomi/OpenReroc.git   
 **Author**:      Kazushi Yamashina   
 **Copyright**:   2015 Kazushi Yamashina   
 **License**:      new BSD License   
@@ -42,10 +42,11 @@ Requirements
 
 How to build software
 =======
+Please replace **catkin_ws** to your work space name.
 
 ```
-cd ~/catkin_ws/src 
-git clone https://github.com/Kumikomi/VirCRET.git 
+git clone https://github.com/Kumikomi/OpenReroc.git 
+cp -rf OpenReroc/openreroc_pwm ~/catkin_ws/src
 cd ~/catkin_ws 
 catkin_make 
 ```
@@ -56,7 +57,7 @@ Test Run
  - http://xillybus.com/xillinux
 
 2. Hardware bitstream installation
-Please replace **xillydemo.bit** on the SD card with `vicret_pwm/hardware/image/openreroc_pwm.bit`
+Please replace **xillydemo.bit** on the SD card with `openreroc_pwm/hardware/image/openreroc_pwm.bit`
 
 3. Insert SD card & boot system
 
@@ -76,7 +77,7 @@ source devel/setup.bash
 rosrun openreroc_pwm sample_input
 ```
 
-How to build Hardware
+How to build hardware
 ====== 
 It's too complex to describe all the necessary procedure to build hardware, so some hints are shown below.
 1 : Place of Soruce code `hardware/src`  
