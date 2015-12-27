@@ -1,12 +1,16 @@
 # OpenReroc
 
-OpenReroc (Open source Reconfigurable robot component) is a R&D project of the components using an FPGA for robots.  
+OpenReroc (Open source Reconfigurable robot component) is a R&D project to build a component-based design platform of FPGAs for robots.  
 This project publishes the components available in **[ROS](http://www.ros.org/)**.
 
-### Supported platforms
+### Supported platforms (Hardware)
 
 - Xilinx Zynq-7000 series
 -- Zedboard
+
+### Supported platforms (Software)
+
+- ROS (indigo) on ARM
 
 ### OpenReroc Components
 
