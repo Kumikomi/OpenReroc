@@ -20,14 +20,15 @@ This project publishes the components available in **[ROS](http://www.ros.org/)*
 
 ### People
 
-The project is lead by [Kumikomi-han, Pearlab, Utsunomiya University](https://github.com/Kumikomi), Japan
+- The project is lead by [Kumikomi-han, Pearlab, Utsunomiya University](https://github.com/Kumikomi), Japan
+- Project Leader: [Takeshi Ohkawa](https://github.com/ohkawatks)
 
 ### Acknowledgements
 
-The project is supported by SCOPE(No.0159-0112) of SOUMU, Japan.
+- The project is supported by SCOPE(No.0159-0112) of SOUMU, Japan.
 
 
-### Related Publicationse in Japanese
+### Related Publication in Japanese
 - 山科 和史，大川 猛，大津 金光，横田 隆史，“ロボット応用のためのROS準拠FPGA画像処理コンポーネントの基礎設計”，
 情報処理学会 第77回全国大会講演論文集， pp.1-169～1-170, 2015年3月18日．
 - 山科 和史，大川 猛，大津 金光、横田 隆史，“FPGA SoCを用いた画像処理ハードウェアのROS準拠コンポーネント化”，信学技報，Vol.115, No.109, pp.41-46 (RECONF2015-8), 2015年6月. （発表日：2015.06.19） 
