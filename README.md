@@ -15,7 +15,7 @@ This project publishes the components available in **[ROS](http://www.ros.org/)*
 ### OpenReroc Components
 
 - openreroc_pwm - https://github.com/Kumikomi/openreroc_pwm (released) 
-- openreroc_motion_sensor - https://github.com/Kumikomi/openreroc_motion_sensor (planned) 
+- openreroc_motion_sensor - https://github.com/Kumikomi/openreroc_motion_sensor (released) 
 - openreroc_image_labeling - https://github.com/Kumikomi/openreroc_image_labeling (planned) 
  
 ### Papers
