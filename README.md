@@ -21,6 +21,8 @@ This project publishes the components available in **[ROS](http://www.ros.org/)*
 ### Papers
 
 - Kazushi Yamashina, Takeshi Ohkawa, Kanemitsu Ootsu, Takashi Yokota, “Proposal of ROS-compliant FPGA Component for Low-Power Robotic Systems -case study on image processing application-”, Proceedings of 2nd International Workshop on FPGAs for Software Programmers (FSP 2015), pp.62-67, 2015.09.01. ePrint Proceedings: arXiv:1508.06320 (http://arxiv.org/abs/1508.07123)
+- Kazushi Yamashina, Hitomi Kimura, Takeshi Ohkawa, Kanemitsu Ootsu, Takashi Yokota, "cReComp: Automated Design Tool for ROS-Compliant FPGA Component," Proc. IEEE 10th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC-16), Lyon Congress Center, Lyon, France, September 21-23, 2016 
+- Takeshi Ohkawa, Kazushi Yamashina, Takuya Matsumoto, Kanemitsu Ootsu, Takashi Yokota, "Architecture Exploration of Robot System using ROS-Compliant FPGA Component," Proc. 27th IEEE International Symposium on Rapid System Prototyping (RSP), pp.72-78, Oct. 2016. DOI: http://dx.doi.org/10.1145/2990299.2990312 
 
 ### People
 
